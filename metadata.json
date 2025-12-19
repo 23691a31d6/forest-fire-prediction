@@ -1,0 +1,7 @@
+{
+  "name": "PyroGuard AI: Forest Fire Predictor",
+  "description": "An advanced forest fire risk assessment and prediction dashboard utilizing environmental data and Gemini AI to provide actionable insights and safety recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
